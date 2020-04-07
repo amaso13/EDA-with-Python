@@ -1,9 +1,9 @@
 # EDA-with-Python
-## A tutorial on exploratory data analysis in Python
-## What I have learned
-### Import Data from Module
-### Analyzing Individual Feature Patterns using Visualization
-### Descriptive Statistical Analysis
-### Basics of Grouping
-### Correlation and Causation
-### ANOVA
+This is a tutorial on exploratory data analysis in Python
+What I have learned
+1. Import Data from Module
+2. Analyzing Individual Feature Patterns using Visualization
+3. Descriptive Statistical Analysis
+4. Basics of Grouping
+5. Correlation and Causation
+6. ANOVA
