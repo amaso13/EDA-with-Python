@@ -7,3 +7,7 @@ This is a tutorial on exploratory data analysis in Python.
 4. Basics of Grouping
 5. Correlation and Causation
 6. ANOVA
+
+
+### Data set
+the Automobile Data Set can be obtained at the following link https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
